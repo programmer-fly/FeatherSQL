@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.1.5</version>
+    <title>FeatherSQL</title>
+    <authors>苍蝇fly</authors>
+    <owners>苍蝇fly</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://flyadmin.top</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>一个基于Ado.Net轻量级的数据访问层</description>
+    <releaseNotes>修复DeleteList相关方法报错的bug</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>ORM SQL</tags>
+  </metadata>
+</package>

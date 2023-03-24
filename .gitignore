@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/FeatherSQL/v15
+/FeatherSQL/bin
+/FeatherSQL/obj
+/FeatherSQL-Core/bin
+/FeatherSQL-Core/obj
+/Demo-Core/bin
+/Demo-Core/obj
+/Demo/bin
+/Demo/obj
+/packages/
+/WebApplication1/bin
+/WebApplication1/obj
